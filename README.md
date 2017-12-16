@@ -1,5 +1,8 @@
 # FinalDryrunAngular
 
+## NOTE ilker - this README has CLI generated content. Not written by ilker.
+For help look at the README of ex11
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
 
 ## Development server

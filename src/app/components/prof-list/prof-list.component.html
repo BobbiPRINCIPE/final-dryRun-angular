@@ -1,0 +1,24 @@
+<p>
+    prof-list works! ILKER
+</p>
+
+<div>
+    <h3>profs</h3>
+    <div *ngFor="let prof of profs">
+        <ul>
+            <li>Name: {{prof.name}}</li>
+            <li>Lastname: {{prof.lastname}}</li>
+        </ul>
+    </div>
+</div>
+
+<!-- NOTE ilker this block is not needed for final project, just to show using a service returning an Array -->
+<div>
+    <h3>prof2s</h3>
+    <div *ngFor="let prof2 of prof2s">
+        <ul>
+            <li>Name: {{prof2.name}}</li>
+            <li>Lastname: {{prof2.lastname}}</li>
+        </ul>
+    </div>
+</div>
